@@ -1,0 +1,16 @@
+bin\Debug\MyGrammar.exe
+bin\Debug\MyGrammar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyGrammar.Properties.Resources.resources
+obj\Debug\MyGrammar.csproj.GenerateResource.Cache
+obj\Debug\MyGrammar.exe
+obj\Debug\MyGrammar.pdb
+obj\Debug\MyGrammar.Form1.resources
+bin\Release\MyGrammar.exe
+bin\Release\MyGrammar.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MyGrammar.Form1.resources
+obj\Release\MyGrammar.Properties.Resources.resources
+obj\Release\MyGrammar.csproj.GenerateResource.Cache
+obj\Release\MyGrammar.exe
+obj\Release\MyGrammar.pdb

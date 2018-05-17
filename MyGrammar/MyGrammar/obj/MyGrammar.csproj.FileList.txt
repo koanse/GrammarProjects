@@ -1,0 +1,8 @@
+bin\Debug\MyGrammar.exe
+bin\Debug\MyGrammar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyGrammar.Properties.Resources.resources
+obj\Debug\MyGrammar.csproj.GenerateResource.Cache
+obj\Debug\MyGrammar.exe
+obj\Debug\MyGrammar.pdb
+obj\Debug\MyGrammar.Form1.resources
